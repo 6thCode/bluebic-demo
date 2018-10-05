@@ -1,4 +1,4 @@
-# Build a Bluebic Dashboard Sidebar header
+# Build a Bluebic Dashboard Sidebar and Header
 This a demo version for bluebic
 
 ## Getting Started
