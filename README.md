@@ -16,7 +16,7 @@ Clone the git repository on your computer
 ```
 $ git clone https://github.com/6thCode/bluebic-demo.git
 ```
-You can also download the entire repository as a zip file and unpack in on your computer if you do not have git
+You can also download the entire repository as a zip file and unpack in on your computer if you do not have git.
 
 After cloning the application, you need to open the folder and click on the index.html file.
 ```
