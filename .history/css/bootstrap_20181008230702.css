@@ -3109,11 +3109,7 @@ select[multiple].input-lg {
   margin-right: 5px;
 }
 .btn-secondary img {
-<<<<<<< HEAD
-  padding-left: 0px;
-=======
   margin-right: 10px;
->>>>>>> 1e165d24de7c899d643a03f596f12f4ef073d4b2
 }
 @media (min-width: 768px) {
   .btn-secondary img {
@@ -3600,7 +3596,6 @@ input[type="button"].btn-block {
 }
 .collapse.in {
   display: block;
-  padding-left: 53px;
 }
 tr.collapse.in {
   display: table-row;
@@ -7131,25 +7126,9 @@ html, body {
 
 .sidenav li {
   display: flex;
-<<<<<<< HEAD
-  justify-content: center;
-  align-items: center;
-=======
-  /* justify-content: flex-start; */
+  justify-content: flex-start;
   align-items: center;
   padding-left: 15px;
 }
 
-.sidebar-hidden .buttonmenu {
-  color: #fff;
-  font-size: 20px;
-  font-weight: bold;
-  padding-right: 35px;
-  margin: 12px 0px 10px 0px;
-}
-
-.sidenav a span {
-  position: absolute;
-  right: 0px;
->>>>>>> 1e165d24de7c899d643a03f596f12f4ef073d4b2
-}
+.mySidenav

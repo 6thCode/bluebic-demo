@@ -2391,23 +2391,6 @@ if (typeof jQuery === 'undefined') {
 //   }, 350);
 // })
 
-<<<<<<< HEAD
-$('.dashboard-btn, .sidebar-close-btn').on('click', function() {
-  $('#sidebar').toggleClass('sidebar-hidden');
-  $('#sidebar').toggleClass('sidebar-visible');
-});
-
-
-
-// function openSideNav() {
-//   document.getElementById("mySidenav").style.width = "100%";
-// }
-
-// /* Set the width of the side navigation to 0 */
-// function closeNav() {
-//   document.getElementById("mySidenav").style.width = "0";
-// }
-=======
 // $('.dashboard-btn, .sidebar-close-btn').on('click', function() {
 //   $('#sidebar').toggleClass('sidebar-hidden');
 //   $('#sidebar').toggleClass('sidebar-visible');
@@ -2421,4 +2404,3 @@ function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
 }
 
->>>>>>> 1e165d24de7c899d643a03f596f12f4ef073d4b2
