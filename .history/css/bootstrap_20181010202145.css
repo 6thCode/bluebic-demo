@@ -25,7 +25,7 @@ menu,
 nav,
 section,
 summary {
-  display: none;
+  display: block;
 }
 audio,
 canvas,
@@ -7062,24 +7062,13 @@ html, body {
  /* .sidebar-hidden {
    margin-top: 4rem;
  } */
-
-@media screen and (max-width: 34em) {
-  article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block;
+ header {
+  display: none !important;
 }
-
+@media screen and (max-width: 34em) {
+  header {
+    display: block;
+  }
     #sidebar {
        min-width: 43px;
        -webkit-transition: all 0.4s ease-in-out;
